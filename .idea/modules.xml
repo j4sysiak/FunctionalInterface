@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FunctionalInterface.iml" filepath="$PROJECT_DIR$/.idea/FunctionalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalInterface.iml" filepath="$PROJECT_DIR$/FunctionalInterface.iml" />
     </modules>
   </component>
 </project>
