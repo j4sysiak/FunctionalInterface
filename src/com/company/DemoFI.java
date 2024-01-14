@@ -4,6 +4,19 @@ package com.company;
 @FunctionalInterface
 interface Welcome {
     void welcomeMessage();
+
+    //moze byc
+    default void methodOne(){
+        System.out.println("Hello One");
+    }
+
+    //moze byc
+    default void methodTwo(){
+        System.out.println("Hello Two");
+    }
+
+    //nie moze byc - może być tylko jedna metoda , więc albo methodOne() alba ta - wybór należy do Ciebie kolego
+    //void absMethod();
 }
 
 
