@@ -33,6 +33,8 @@ public class DemoFI {
 
     public static void main(String[] args) {
 
+
+
         Welcome welcome = () -> System.out.println("Welcome Interface is implemented");
         welcome.welcomeMessage();
 
